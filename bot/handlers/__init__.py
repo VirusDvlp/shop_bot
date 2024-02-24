@@ -1,0 +1,1 @@
+from .registerAllHandlers import register_all_handlers
